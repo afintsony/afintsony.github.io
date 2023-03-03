@@ -275,7 +275,7 @@ a:hover {
   line-height: 1.55;
   margin: 0 auto;
   text-align: center;
-  box-shadow: 0 0 0 10px black;
+  box-shadow: 0 0 0 10px rgb(28, 28, 28);
   display: block;
 }
 
@@ -914,8 +914,8 @@ a:hover {
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
-  background-color: black;
-  box-shadow: 0 0 0 10px #4d5156;
+  background-color: rgb(30, 30, 30);
+  box-shadow: 0 0 0 10px #595959;
 }
 
 .service-box .service-ico {
@@ -1426,6 +1426,10 @@ section {
   .card-blog {
     margin-bottom: 3rem;
   }
+}
+
+.card-body{
+  background-color: #e2e2e2;
 }
 
 .card-blog .card-body {
