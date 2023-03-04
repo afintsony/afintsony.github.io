@@ -1,10 +1,3 @@
-/**
-* Template Name: DevFolio - v4.10.0
-* Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -272,6 +265,8 @@ a:hover {
 .ico-circle {
   height: 100px;
   width: 100px;
+  justify-content: center;
+  align-items: center;
   font-size: 2rem;
   border-radius: 50%;
   line-height: 1.55;
