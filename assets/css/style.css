@@ -1745,3 +1745,8 @@ footer .credits a {
 .cnt{
   color: #fff;
 }
+
+.center{
+
+  align-items: center;
+}
